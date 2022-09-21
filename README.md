@@ -1,5 +1,5 @@
 ### Hello, I'm Suraj Karale👦, 
-A Full Stack Web developer🎯 and designer🌈 from India.
+A Full Stack MERN developer🎯.
 
 - 👨‍💻 Full Stack MERN Developer 
 - 🎥 Learn Web Development from me [@skcodes](https://www.youtube.com/channel/UCGTd8YNLZX3DJGpCIr8tG4g) <!-- - 🌱 Currently learning Svelte. -->
