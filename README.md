@@ -2,7 +2,7 @@
 A Full Stack MERN developer🎯.
 
 - 👨‍💻 Full Stack MERN Developer 
-- 🎥 Learn Web Development from me [@skcodes](https://www.youtube.com/channel/UCGTd8YNLZX3DJGpCIr8tG4g) <!-- - 🌱 Currently learning Svelte. -->
+- 🎥 Learn Web Development from me [TeamSKcode](https://www.youtube.com/channel/UCGTd8YNLZX3DJGpCIr8tG4g) <!-- - 🌱 Currently learning Svelte. -->
 - 📚 Learn - Share - Grow
 
 
@@ -38,11 +38,12 @@ A Full Stack MERN developer🎯.
 <h3> 🤝🏻 Connect with Me </h3>
 <p>
 <a href="https://www.linkedin.com/in/suraj-karale/" target="_blank"><img height="30" width="30" alt="LinkedIn" src="https://user-images.githubusercontent.com/31344825/191502218-b0443b85-3517-493a-b2c9-072bbeb9e4bd.png"></a>
- <a href="mailto:karalesuraj27416@gmail.com" target="_blank"><img height="30" width="40" alt="Email" src="https://user-images.githubusercontent.com/31344825/191502719-7036c7aa-2e7f-49b6-b569-278ffb2cc2be.png"></a>
  <a href="https://t.me/skcodes" target="_blank"><img height="30" width="30" alt="LinkedIn" src="https://user-images.githubusercontent.com/31344825/191516250-bae84e57-d982-49f7-a9f6-b40d0535d45c.png"></a>
- 
+  <a href="https://www.youtube.com/channel/UCGTd8YNLZX3DJGpCIr8tG4g" target="_blank"><img height="30" width="30" alt="LinkedIn" src="https://user-images.githubusercontent.com/31344825/191517524-5f1e0e88-3de7-4458-a6f6-d01f8ec92847.png"></a>
+   <a href="mailto:karalesuraj27416@gmail.com" target="_blank"><img height="30" width="40" alt="Email" src="https://user-images.githubusercontent.com/31344825/191502719-7036c7aa-2e7f-49b6-b569-278ffb2cc2be.png"></a>
  </p>
  
+
 
 
  <!--⭐️ From [Suraj Karale](https://github.com/srjkrl20011991)-->
