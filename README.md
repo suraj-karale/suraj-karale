@@ -30,9 +30,19 @@ A Full Stack Web developer🎯 and designer🌈 from India.
   - REACT : https://shopping-cart-demo-suraj.netlify.app/
   - NEXTJS : https://srjkrl20011991.github.io/next-js-crash-course
 
+![Piyush's github stats](https://github-readme-stats.vercel.app/api?username=srjkrl20011991&theme=tokyonight&show_icons=true&hide=["issues"])
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=srjkrl20011991&theme=tokyonight&layout=compact)
 
 
 <h3> 🤝🏻 Connect with Me </h3>
+<p>
+ <!-- <a href="https://www.adityavsingh.com/"><img alt="Website" src="https://img.shields.io/badge/Website-www.adityavsingh.com-blue?style=flat-square&logo=google-chrome"></a> -->
+<a href="https://www.linkedin.com/in/suraj-karale/" target="_blank"><img height="30" width="30" alt="LinkedIn" src="https://user-images.githubusercontent.com/31344825/191502218-b0443b85-3517-493a-b2c9-072bbeb9e4bd.png"></a>
+ <a href="mailto:karalesuraj27416@gmail.com" target="_blank"><img height="30" width="40" alt="Email" src="https://user-images.githubusercontent.com/31344825/191502719-7036c7aa-2e7f-49b6-b569-278ffb2cc2be.png"></a>
+ </p>
+
+
+
  <!--⭐️ From [Suraj Karale](https://github.com/srjkrl20011991)-->
 
