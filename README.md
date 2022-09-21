@@ -30,7 +30,7 @@ A Full Stack MERN developer🎯.
   - REACT : https://shopping-cart-demo-suraj.netlify.app/
   - NEXTJS : https://srjkrl20011991.github.io/next-js-crash-course
 
-![Piyush's github stats](https://github-readme-stats.vercel.app/api?username=srjkrl20011991&theme=tokyonight&show_icons=true&hide=["issues"])
+![Suraj's github stats](https://github-readme-stats.vercel.app/api?username=srjkrl20011991&theme=tokyonight&show_icons=true&hide=["issues"])
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=srjkrl20011991&theme=tokyonight&layout=compact)
 
@@ -38,11 +38,11 @@ A Full Stack MERN developer🎯.
 <h3> 🤝🏻 Connect with Me </h3>
 <p>
 <a href="https://www.linkedin.com/in/suraj-karale/" target="_blank"><img height="30" width="30" alt="LinkedIn" src="https://user-images.githubusercontent.com/31344825/191502218-b0443b85-3517-493a-b2c9-072bbeb9e4bd.png"></a>
- <a href="https://t.me/skcodes" target="_blank"><img height="30" width="30" alt="LinkedIn" src="https://user-images.githubusercontent.com/31344825/191516250-bae84e57-d982-49f7-a9f6-b40d0535d45c.png"></a>
-  <a href="https://www.youtube.com/channel/UCGTd8YNLZX3DJGpCIr8tG4g" target="_blank"><img height="30" width="30" alt="LinkedIn" src="https://user-images.githubusercontent.com/31344825/191517524-5f1e0e88-3de7-4458-a6f6-d01f8ec92847.png"></a>
-   <a href="mailto:karalesuraj27416@gmail.com" target="_blank"><img height="30" width="40" alt="Email" src="https://user-images.githubusercontent.com/31344825/191502719-7036c7aa-2e7f-49b6-b569-278ffb2cc2be.png"></a>
+ <a href="https://t.me/skcodes" target="_blank"><img height="30" width="30" alt="Telegram" src="https://user-images.githubusercontent.com/31344825/191516250-bae84e57-d982-49f7-a9f6-b40d0535d45c.png"></a>
+  <a href=" https://www.instagram.com/TeamSKcode/" target="_blank"><img height="30" width="30" alt="Instagram" src="https://user-images.githubusercontent.com/31344825/191523631-68fddb59-5554-4483-82b2-1d2937d773dc.png"></a>
+  <a href="https://www.youtube.com/channel/UCGTd8YNLZX3DJGpCIr8tG4g" target="_blank"><img height="30" width="30" alt="Youtube" src="https://user-images.githubusercontent.com/31344825/191517524-5f1e0e88-3de7-4458-a6f6-d01f8ec92847.png"></a>
+   <a href="mailto:karalesuraj27416@gmail.com" target="_blank"><img height="30" width="40" alt="Gmail" src="https://user-images.githubusercontent.com/31344825/191502719-7036c7aa-2e7f-49b6-b569-278ffb2cc2be.png"></a>
  </p>
- 
 
 
 
