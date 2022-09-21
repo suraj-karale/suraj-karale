@@ -5,21 +5,26 @@ A Full Stack Web developer🎯 and designer🌈 from India.
 - 🎥 Learn Web Development from me [@skcodes](https://www.youtube.com/channel/UCGTd8YNLZX3DJGpCIr8tG4g) <!-- - 🌱 Currently learning Svelte. -->
 - 📚 Learn - Share - Grow
 
-<code><img height="100" width="500" src="https://user-images.githubusercontent.com/31344825/191495432-37ed56d1-8646-49b4-a62a-d1f2f7f7f174.png"></code>
-
 **Languages:**  
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="20" src="https://user-images.githubusercontent.com/31344825/191496726-2ae87a01-cae5-40e3-87a9-49028ef422bf.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"></code>
-<code><img height="20" src="https://user-images.githubusercontent.com/31344825/191496602-2f942272-953c-4620-b483-933edd51a6ff.png"></code>
-<code><img height="20" src="https://user-images.githubusercontent.com/31344825/191496393-8a6c1a85-c952-41dd-bf81-064d697a0949.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+<code><img height="40" src="https://user-images.githubusercontent.com/31344825/191496726-2ae87a01-cae5-40e3-87a9-49028ef422bf.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"></code>
+<code><img height="40" src="https://user-images.githubusercontent.com/31344825/191496602-2f942272-953c-4620-b483-933edd51a6ff.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="40" src="https://user-images.githubusercontent.com/31344825/191497786-aab66784-e7f9-45d2-bec5-af3b87b25d94.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
+<code><img height="40" src="https://user-images.githubusercontent.com/31344825/191497424-33823b1a-1bd5-4b29-95d5-b0898527d645.png"></code>
+<code><img height="40" src="https://user-images.githubusercontent.com/31344825/191496393-8a6c1a85-c952-41dd-bf81-064d697a0949.png"></code>
+
+
+
+
+
+
 
 
 ## MERN Demo App
