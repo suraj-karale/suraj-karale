@@ -6,7 +6,7 @@ A Full Stack MERN developer🎯.
 - 📚 Learn - Share - Grow
 
 
- ![](https://komarev.com/ghpvc/?username=srjkrl20011991)
+ ![](https://komarev.com/ghpvc/?username=suraj-karale)
 
 **Languages:**  
 
@@ -26,16 +26,9 @@ A Full Stack MERN developer🎯.
 <code><img height="40" src="https://user-images.githubusercontent.com/31344825/191674849-06f6abfd-300d-4727-813f-d690e7e2bad3.png"></code>
 <code><img height="40" src="https://user-images.githubusercontent.com/31344825/191674925-61d9f5a4-a653-4fe7-85ec-961eef3656f9.png"></code>
 
+![Suraj's github stats](https://github-readme-stats.vercel.app/api?username=suraj-karale&theme=tokyonight&show_icons=true&hide=["issues"])
 
-
-## MERN Demo App
-  - MERN : https://project-management-suraj.herokuapp.com/ 
-  - REACT : https://shopping-cart-demo-suraj.netlify.app/
-  - NEXTJS : https://srjkrl20011991.github.io/next-js-crash-course
-
-![Suraj's github stats](https://github-readme-stats.vercel.app/api?username=srjkrl20011991&theme=tokyonight&show_icons=true&hide=["issues"])
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=srjkrl20011991&theme=tokyonight&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suraj-karale&theme=tokyonight&layout=compact)
 
 
 <h3> 🤝🏻 Connect with Me </h3>
@@ -44,10 +37,10 @@ A Full Stack MERN developer🎯.
  <a href="https://t.me/skcodes" target="_blank"><img height="30" width="40" alt="Telegram" src="https://user-images.githubusercontent.com/31344825/191516250-bae84e57-d982-49f7-a9f6-b40d0535d45c.png"></a>&nbsp;&nbsp;&nbsp;
   <a href="https://www.instagram.com/teamskcode/" target="_blank"><img height="30" width="40" alt="Instagram" src="https://user-images.githubusercontent.com/31344825/191523631-68fddb59-5554-4483-82b2-1d2937d773dc.png"></a>&nbsp;&nbsp;&nbsp;
   <a href="https://www.youtube.com/channel/UCGTd8YNLZX3DJGpCIr8tG4g" target="_blank"><img height="30" width="40" alt="Youtube" src="https://user-images.githubusercontent.com/31344825/191517524-5f1e0e88-3de7-4458-a6f6-d01f8ec92847.png"></a>&nbsp;&nbsp;&nbsp;
-   <a href="mailto:karalesuraj27416@gmail.com" target="_blank"><img height="30" width="40" alt="Gmail" src="https://user-images.githubusercontent.com/31344825/191502719-7036c7aa-2e7f-49b6-b569-278ffb2cc2be.png"></a>&nbsp;&nbsp;&nbsp;
+   <a href="mailto:sbkcodes@gmail.com" target="_blank"><img height="30" width="40" alt="Gmail" src="https://user-images.githubusercontent.com/31344825/191502719-7036c7aa-2e7f-49b6-b569-278ffb2cc2be.png"></a>&nbsp;&nbsp;&nbsp;
  </p>
 
 
 
- <!--⭐️ From [Suraj Karale](https://github.com/srjkrl20011991)-->
+ <!--⭐️ From [Suraj Karale](https://github.com/suraj-karale)-->
 
