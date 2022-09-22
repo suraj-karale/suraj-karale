@@ -20,8 +20,11 @@ A Full Stack MERN developer🎯.
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="40" src="https://user-images.githubusercontent.com/31344825/191497786-aab66784-e7f9-45d2-bec5-af3b87b25d94.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
-<code><img height="40" src="https://user-images.githubusercontent.com/31344825/191497424-33823b1a-1bd5-4b29-95d5-b0898527d645.png"></code>
+<code><img height="40" src="https://user-images.githubusercontent.com/31344825/191674502-28ca5a51-ccf1-4bf6-bc1b-f9de8afe641f.png"></code>
 <code><img height="40" src="https://user-images.githubusercontent.com/31344825/191496393-8a6c1a85-c952-41dd-bf81-064d697a0949.png"></code>
+<code><img height="40" src="https://user-images.githubusercontent.com/31344825/191674802-64cc99ba-5691-4e5b-87d3-9e8b85f39341.png"></code>
+<code><img height="40" src="https://user-images.githubusercontent.com/31344825/191674849-06f6abfd-300d-4727-813f-d690e7e2bad3.png"></code>
+<code<code><img height="40" src="https://user-images.githubusercontent.com/31344825/191674925-61d9f5a4-a653-4fe7-85ec-961eef3656f9.png"></code>
 
 
 
