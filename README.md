@@ -5,6 +5,10 @@ A Full Stack MERN developer🎯.
 - 🎥 Learn Web Development from me [TeamSKcode](https://www.youtube.com/channel/UCGTd8YNLZX3DJGpCIr8tG4g) <!-- - 🌱 Currently learning Svelte. -->
 - 📚 Learn - Share - Grow
 
+Live Demo Projects:
+
+MERN-Graphql :  https://project-management-suraj.herokuapp.com/ </br>
+REACT : https://shopping-cart-demo-suraj.netlify.app/
 
  ![](https://komarev.com/ghpvc/?username=suraj-karale)
 
