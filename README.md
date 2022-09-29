@@ -22,8 +22,8 @@ REACT : https://shopping-cart-demo-suraj.netlify.app/
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="40" width="40" src="https://user-images.githubusercontent.com/31344825/192768495-a4c93a15-4646-49ef-b081-09b26bd6d8f0.png"></code>
-<code><img height="40" src="https://user-images.githubusercontent.com/31344825/193004492-f8724382-66bd-4c38-9878-6a97498fe10c.png"></code>
+<code><img height="40"  src="https://user-images.githubusercontent.com/31344825/192768495-a4c93a15-4646-49ef-b081-09b26bd6d8f0.png"></code>
+<code><img height="40" width="40" src="https://user-images.githubusercontent.com/31344825/193004998-87680051-e4b2-45fe-adb2-da8136a46e88.png"></code>
 <code><img height="40" src="https://user-images.githubusercontent.com/31344825/191497786-aab66784-e7f9-45d2-bec5-af3b87b25d94.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
 <code><img height="40" src="https://user-images.githubusercontent.com/31344825/191674502-28ca5a51-ccf1-4bf6-bc1b-f9de8afe641f.png"></code>
