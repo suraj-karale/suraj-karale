@@ -2,8 +2,8 @@
 A Full Stack MERN developer🎯.
 
 - 👨‍💻 Full Stack MERN Developer 
-- 🎥 Learn Web Development from me [TeamSKcode](https://www.youtube.com/channel/UCGTd8YNLZX3DJGpCIr8tG4g) <!-- - 🌱 Currently learning Svelte. -->
-- 📚 Learn - Share - Grow
+- 🎥 Learn Web Development at [TeamSKcode](https://www.youtube.com/channel/UCGTd8YNLZX3DJGpCIr8tG4g) <!-- - 🌱 Currently learning Svelte. -->
+- 📚 Learn - build - deploy - Share - Grow 
 
 Live Demo Projects:
 
