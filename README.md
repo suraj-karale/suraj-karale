@@ -7,7 +7,6 @@ A Full Stack MERN developer🎯.
 
 Live Demo Projects:
 
-MERN-Graphql :  https://project-management-suraj.herokuapp.com/ </br>
 REACT : https://shopping-cart-demo-suraj.netlify.app/
 
  ![](https://komarev.com/ghpvc/?username=suraj-karale)
